@@ -27,7 +27,7 @@
 - **Description:** Fetch all available questions.
 - **Response (Example):**
 
-- ![Screenshot (120)](https://github.com/user-attachments/assets/d31185d5-2626-4cf7-ab71-dd144e1ff36d)
+ ![Screenshot (120)](https://github.com/user-attachments/assets/d31185d5-2626-4cf7-ab71-dd144e1ff36d)
 
 
 #### 2. Get Questions by Category
@@ -35,7 +35,7 @@
 - **Description:** Fetch all questions from a specific category.
 - **Example:** GET /question/category/Java
 
-- ![Screenshot (121)](https://github.com/user-attachments/assets/4c501d55-7950-4508-97d6-1bc9cc80380b)
+  ![Screenshot (121)](https://github.com/user-attachments/assets/4c501d55-7950-4508-97d6-1bc9cc80380b)
 
 
  
@@ -44,7 +44,7 @@
 - **Description:** Add a new question.
 - **Response (Example):**
 
-- ![Screenshot (122)](https://github.com/user-attachments/assets/a6af00bc-951b-4c64-b30e-2ce7d7879dec)
+ ![Screenshot (122)](https://github.com/user-attachments/assets/a6af00bc-951b-4c64-b30e-2ce7d7879dec)
 
 
 
@@ -56,7 +56,7 @@
 - **Response (Example):**
 
 
-- ![Screenshot (123)](https://github.com/user-attachments/assets/55eee8b0-9ffa-4001-8bfb-e572b1ae195e)
+  ![Screenshot (123)](https://github.com/user-attachments/assets/55eee8b0-9ffa-4001-8bfb-e572b1ae195e)
 
 
 #### 5. Fetch a Quiz
@@ -64,7 +64,7 @@
 - **Description:** Fetch a quiz by its ID.
 - **Example:** GET /quiz/get/1
 
-- ![Screenshot (124)](https://github.com/user-attachments/assets/8b9e215e-7626-43ec-a18a-ff249a8d74bf)
+ ![Screenshot (124)](https://github.com/user-attachments/assets/8b9e215e-7626-43ec-a18a-ff249a8d74bf)
 
 
 
@@ -73,7 +73,7 @@
 - **Description:** Submit answers for a quiz and get the result.
 - **Example:** POST /quiz/submit/1
 
-- ![Screenshot (125)](https://github.com/user-attachments/assets/7b1e1f2f-df9b-4d77-8b9d-6c7b13368182)
+  ![Screenshot (125)](https://github.com/user-attachments/assets/7b1e1f2f-df9b-4d77-8b9d-6c7b13368182)
 
 
 
